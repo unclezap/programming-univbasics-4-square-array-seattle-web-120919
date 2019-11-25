@@ -7,5 +7,5 @@ def square_array(array)
     temp_array.push(element)
     counter +=1
   end
-  array = temp_array
+  temp_array
 end
